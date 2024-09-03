@@ -1,0 +1,15 @@
+Overview
+Implementing Writing your first Django app
+from https://docs.djangoproject.com/en/1.6/intro/tutorial01/
+
+
+
+TODO
+Get it all going.
+    Got to https://docs.djangoproject.com/en/1.6/intro/tutorial05/ last section.
+
+
+
+Logs
+Thu 28 Aug 2014 8:27 AM CST
+Created
